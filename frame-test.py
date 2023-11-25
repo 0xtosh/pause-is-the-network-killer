@@ -1,7 +1,7 @@
 # !!!
 #   WARNING: The information contained within this script is supplied "as-is" with no warranties or guarantees. 
 #   I take no responsibility for any damage caused by the use or misuse of this code and it should only be used for testing dedicated network equipment 
-#   in a test or lab environment as it will result in network equipement becoming non-responsible
+#   in a test or lab environment as it will result in network equipment becoming unresponsive requiring restart
 # !!!
 import argparse
 from scapy.all import *
